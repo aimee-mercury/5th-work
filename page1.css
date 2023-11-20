@@ -1,0 +1,42 @@
+
+pre {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+       
+button a{
+    list-style-type: none;
+    display: inline;
+}
+button a{
+    text-decoration: none;
+    color: white;
+    overflow: hidden;
+    float: right;
+    text-align: left;
+}
+button{
+    margin-top:20px;
+    margin-left:120px;
+    float:left;
+    background-color:rgba(1, 0, 0, 0.004);
+    border:none;
+    cursor: pointer;
+}
+button :hover{
+    background-color:red;
+}
+
+
+
+.fab{
+    background-color: beige;
+    text-decoration: none;
+    color: white;
+}
+div a{
+   margin-left:20px;
+    text-decoration: none;
+    color: white;
+    
+}
+
